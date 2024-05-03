@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohawkart
+- 👋 Hi, I’m @mohawkart 
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C, C++, and Python and Blender
 - ⚡ Fun fact: I'm an artist
